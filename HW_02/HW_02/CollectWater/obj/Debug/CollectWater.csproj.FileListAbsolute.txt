@@ -1,0 +1,6 @@
+C:\Users\Egor\uni_projects\C_sharp_projects\HW_02\HW_02\CollectWater\bin\Debug\CollectWater.dll
+C:\Users\Egor\uni_projects\C_sharp_projects\HW_02\HW_02\CollectWater\bin\Debug\CollectWater.pdb
+C:\Users\Egor\uni_projects\C_sharp_projects\HW_02\HW_02\CollectWater\obj\Debug\CollectWater.csproj.AssemblyReference.cache
+C:\Users\Egor\uni_projects\C_sharp_projects\HW_02\HW_02\CollectWater\obj\Debug\CollectWater.csproj.CoreCompileInputs.cache
+C:\Users\Egor\uni_projects\C_sharp_projects\HW_02\HW_02\CollectWater\obj\Debug\CollectWater.dll
+C:\Users\Egor\uni_projects\C_sharp_projects\HW_02\HW_02\CollectWater\obj\Debug\CollectWater.pdb

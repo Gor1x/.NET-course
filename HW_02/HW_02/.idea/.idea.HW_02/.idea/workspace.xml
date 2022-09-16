@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3091e002-b96e-427f-a274-0a7cb64ea4f1" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/07c38ac6da8344888a1d0f7bfde87c6617ab18/46/215ea1d6/Enumerable.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/861e23c672704a4a8eca9c234af0cac552e590/09/9387f6e8/IEnumerable`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/861e23c672704a4a8eca9c234af0cac552e590/0b/f0da1fa4/ReadOnlyCollection`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/861e23c672704a4a8eca9c234af0cac552e590/25/8a1ba510/Object.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/861e23c672704a4a8eca9c234af0cac552e590/3d/b7d4fbb0/IList`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/861e23c672704a4a8eca9c234af0cac552e590/48/bef5e03f/IReadOnlyCollection`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/861e23c672704a4a8eca9c234af0cac552e590/7e/312fb964/IEnumerator`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/861e23c672704a4a8eca9c234af0cac552e590/96/465f879d/List`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/861e23c672704a4a8eca9c234af0cac552e590/b6/606db700/IReadOnlyList`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/861e23c672704a4a8eca9c234af0cac552e590/c6/981070af/ICloneable.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/861e23c672704a4a8eca9c234af0cac552e590/cb/85fd23eb/IList.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/861e23c672704a4a8eca9c234af0cac552e590/e1/66d4a6da/ICollection`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/861e23c672704a4a8eca9c234af0cac552e590/e9/5518e976/ArrayList.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/861e23c672704a4a8eca9c234af0cac552e590/ed/b290da62/Hashtable.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HashTableWithOpenAddressing/HashTableWithOpenAddressing.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HashTableWithOpenAddressing/IHashTable.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HashTableWithOpenAddressing/Properties/AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Ep9xGUdbjLgNGlhMg7zCUHKWpj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="073748b0-5738-4bc2-a3b2-0fbf1e89c32c" />
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3091e002-b96e-427f-a274-0a7cb64ea4f1" name="Changes" comment="" />
+      <created>1663281903904</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1663281903904</updated>
+      <workItem from="1663281912515" duration="10322000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/UnitTests/HashTableTests/Tests.cs</url>
+          <line>53</line>
+          <properties documentPath="C:\Users\Egor\uni_projects\C_sharp_projects\HW_02\HW_02\UnitTests\HashTableTests\Tests.cs" initialLine="53" containingFunctionPresentation="method 'AddRemoveWorksProperly'">
+            <startOffsets>
+              <option value="1440" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1470" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/UnitTests/HashTableTests/Tests.cs</url>
+          <line>54</line>
+          <properties documentPath="C:\Users\Egor\uni_projects\C_sharp_projects\HW_02\HW_02\UnitTests\HashTableTests\Tests.cs" initialLine="54" containingFunctionPresentation="method 'AddRemoveWorksProperly'">
+            <startOffsets>
+              <option value="1483" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1516" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/UnitTests/HashTableTests/Tests.cs</url>
+          <line>50</line>
+          <properties documentPath="C:\Users\Egor\uni_projects\C_sharp_projects\HW_02\HW_02\UnitTests\HashTableTests\Tests.cs" initialLine="50" containingFunctionPresentation="method 'AddRemoveWorksProperly'">
+            <startOffsets>
+              <option value="1364" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1407" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/UnitTests/HashTableTests/Tests.cs</url>
+          <line>57</line>
+          <properties documentPath="C:\Users\Egor\uni_projects\C_sharp_projects\HW_02\HW_02\UnitTests\HashTableTests\Tests.cs" initialLine="57" containingFunctionPresentation="method 'AddRemoveWorksProperly'">
+            <startOffsets>
+              <option value="1553" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1602" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/UnitTests/HashTableTests/Tests.cs</url>
+          <line>58</line>
+          <properties documentPath="C:\Users\Egor\uni_projects\C_sharp_projects\HW_02\HW_02\UnitTests\HashTableTests\Tests.cs" initialLine="58" containingFunctionPresentation="method 'AddRemoveWorksProperly'">
+            <startOffsets>
+              <option value="1615" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1648" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/UnitTests/HashTableTests/Tests.cs</url>
+          <line>59</line>
+          <properties documentPath="C:\Users\Egor\uni_projects\C_sharp_projects\HW_02\HW_02\UnitTests\HashTableTests\Tests.cs" initialLine="59" containingFunctionPresentation="method 'AddRemoveWorksProperly'">
+            <startOffsets>
+              <option value="1661" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1707" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/HashTableWithOpenAddressing/HashTableWithOpenAddressing.cs</url>
+          <line>87</line>
+          <properties documentPath="C:\Users\Egor\uni_projects\C_sharp_projects\HW_02\HW_02\HashTableWithOpenAddressing\HashTableWithOpenAddressing.cs" initialLine="85" containingFunctionPresentation="method 'Contains'">
+            <startOffsets>
+              <option value="2600" />
+            </startOffsets>
+            <endOffsets>
+              <option value="2613" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/DropTheDice/DropTheDice.cs</url>
+          <line>27</line>
+          <properties documentPath="C:\Users\Egor\uni_projects\C_sharp_projects\HW_02\HW_02\DropTheDice\DropTheDice.cs" initialLine="27" containingFunctionPresentation="method 'DiceRoll'">
+            <startOffsets>
+              <option value="1037" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1078" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/DropTheDice/DropTheDice.cs</url>
+          <line>13</line>
+          <properties documentPath="C:\Users\Egor\uni_projects\C_sharp_projects\HW_02\HW_02\DropTheDice\DropTheDice.cs" initialLine="13" containingFunctionPresentation="method 'RecursiveDiceRoll'">
+            <startOffsets>
+              <option value="457" />
+            </startOffsets>
+            <endOffsets>
+              <option value="466" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/DropTheDice/DropTheDice.cs</url>
+          <line>15</line>
+          <properties documentPath="C:\Users\Egor\uni_projects\C_sharp_projects\HW_02\HW_02\DropTheDice\DropTheDice.cs" initialLine="15" containingFunctionPresentation="method 'RecursiveDiceRoll'">
+            <startOffsets>
+              <option value="517" />
+            </startOffsets>
+            <endOffsets>
+              <option value="526" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/DropTheDice/DropTheDice.cs</url>
+          <line>18</line>
+          <properties documentPath="C:\Users\Egor\uni_projects\C_sharp_projects\HW_02\HW_02\DropTheDice\DropTheDice.cs" initialLine="18" containingFunctionPresentation="method 'RecursiveDiceRoll'">
+            <startOffsets>
+              <option value="667" />
+            </startOffsets>
+            <endOffsets>
+              <option value="696" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/DropTheDice/DropTheDice.cs</url>
+          <line>22</line>
+          <properties documentPath="C:\Users\Egor\uni_projects\C_sharp_projects\HW_02\HW_02\DropTheDice\DropTheDice.cs" initialLine="22" containingFunctionPresentation="method 'RecursiveDiceRoll'">
+            <startOffsets>
+              <option value="830" />
+            </startOffsets>
+            <endOffsets>
+              <option value="906" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/DropTheDice/DropTheDice.cs</url>
+          <line>24</line>
+          <properties documentPath="C:\Users\Egor\uni_projects\C_sharp_projects\HW_02\HW_02\DropTheDice\DropTheDice.cs" initialLine="24" containingFunctionPresentation="method 'RecursiveDiceRoll'">
+            <startOffsets>
+              <option value="933" />
+            </startOffsets>
+            <endOffsets>
+              <option value="962" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

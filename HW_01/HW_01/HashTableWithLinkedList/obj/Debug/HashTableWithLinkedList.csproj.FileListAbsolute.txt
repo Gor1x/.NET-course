@@ -1,0 +1,6 @@
+C:\Users\Egor\uni_projects\C_sharp_projects\HW_01\HW_01\HashTableWithLinkedList\bin\Debug\HashTableWithLinkedList.dll
+C:\Users\Egor\uni_projects\C_sharp_projects\HW_01\HW_01\HashTableWithLinkedList\bin\Debug\HashTableWithLinkedList.pdb
+C:\Users\Egor\uni_projects\C_sharp_projects\HW_01\HW_01\HashTableWithLinkedList\obj\Debug\HashTableWithLinkedList.csproj.AssemblyReference.cache
+C:\Users\Egor\uni_projects\C_sharp_projects\HW_01\HW_01\HashTableWithLinkedList\obj\Debug\HashTableWithLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\Egor\uni_projects\C_sharp_projects\HW_01\HW_01\HashTableWithLinkedList\obj\Debug\HashTableWithLinkedList.dll
+C:\Users\Egor\uni_projects\C_sharp_projects\HW_01\HW_01\HashTableWithLinkedList\obj\Debug\HashTableWithLinkedList.pdb

@@ -1,0 +1,6 @@
+C:\Users\Egor\uni_projects\C_sharp_projects\HW_02\HW_02\ImmutableList\bin\Debug\ImmutableList.dll
+C:\Users\Egor\uni_projects\C_sharp_projects\HW_02\HW_02\ImmutableList\bin\Debug\ImmutableList.pdb
+C:\Users\Egor\uni_projects\C_sharp_projects\HW_02\HW_02\ImmutableList\obj\Debug\ImmutableList.csproj.AssemblyReference.cache
+C:\Users\Egor\uni_projects\C_sharp_projects\HW_02\HW_02\ImmutableList\obj\Debug\ImmutableList.csproj.CoreCompileInputs.cache
+C:\Users\Egor\uni_projects\C_sharp_projects\HW_02\HW_02\ImmutableList\obj\Debug\ImmutableList.dll
+C:\Users\Egor\uni_projects\C_sharp_projects\HW_02\HW_02\ImmutableList\obj\Debug\ImmutableList.pdb

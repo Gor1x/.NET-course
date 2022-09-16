@@ -1,0 +1,6 @@
+C:\Users\Egor\uni_projects\C_sharp_projects\HW_02\HW_02\HashTableWithOpenAddressing\bin\Debug\HashTableWithOpenAddressing.dll
+C:\Users\Egor\uni_projects\C_sharp_projects\HW_02\HW_02\HashTableWithOpenAddressing\bin\Debug\HashTableWithOpenAddressing.pdb
+C:\Users\Egor\uni_projects\C_sharp_projects\HW_02\HW_02\HashTableWithOpenAddressing\obj\Debug\HashTableWithOpenAddressing.csproj.AssemblyReference.cache
+C:\Users\Egor\uni_projects\C_sharp_projects\HW_02\HW_02\HashTableWithOpenAddressing\obj\Debug\HashTableWithOpenAddressing.csproj.CoreCompileInputs.cache
+C:\Users\Egor\uni_projects\C_sharp_projects\HW_02\HW_02\HashTableWithOpenAddressing\obj\Debug\HashTableWithOpenAddressing.dll
+C:\Users\Egor\uni_projects\C_sharp_projects\HW_02\HW_02\HashTableWithOpenAddressing\obj\Debug\HashTableWithOpenAddressing.pdb

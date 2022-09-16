@@ -1,0 +1,12 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=964f75c5_002D4eaf_002D44f7_002D8757_002D00d4de700a09/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CapacityDecreasesWhenLoadFactorIsLow" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::549289A7-F32B-4432-A2DF-775C745363C0::.NETFramework,Version=v4.8::UnitTests.HashTableTests.Tests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::549289A7-F32B-4432-A2DF-775C745363C0::.NETFramework,Version=v4.8::UnitTests.PasswordGeneratorTests.Tests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::549289A7-F32B-4432-A2DF-775C745363C0::.NETFramework,Version=v4.8::UnitTests.MinStackTests.Tests.MinValueWorksProperly&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::549289A7-F32B-4432-A2DF-775C745363C0::.NETFramework,Version=v4.8::UnitTests.MinStackTests.Tests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=d33828ef_002D94cb_002D494c_002Da86f_002D7ff796fd39d6/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="All tests from &amp;lt;UnitTests&amp;gt;" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="C:\Users\Egor\uni_projects\C_sharp_projects\HW_01\HW_01\UnitTests" Presentation="&amp;lt;UnitTests&amp;gt;" /&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

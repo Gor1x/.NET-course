@@ -1,0 +1,6 @@
+C:\Users\Egor\uni_projects\C_sharp_projects\HW_02\HW_02\DropTheDice\bin\Debug\DropTheDice.dll
+C:\Users\Egor\uni_projects\C_sharp_projects\HW_02\HW_02\DropTheDice\bin\Debug\DropTheDice.pdb
+C:\Users\Egor\uni_projects\C_sharp_projects\HW_02\HW_02\DropTheDice\obj\Debug\DropTheDice.csproj.AssemblyReference.cache
+C:\Users\Egor\uni_projects\C_sharp_projects\HW_02\HW_02\DropTheDice\obj\Debug\DropTheDice.csproj.CoreCompileInputs.cache
+C:\Users\Egor\uni_projects\C_sharp_projects\HW_02\HW_02\DropTheDice\obj\Debug\DropTheDice.dll
+C:\Users\Egor\uni_projects\C_sharp_projects\HW_02\HW_02\DropTheDice\obj\Debug\DropTheDice.pdb

@@ -1,0 +1,11 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=073748b0_002D5738_002D4bc2_002Da3b2_002D0fbf1e89c32c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Tests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::2D779343-E3F2-4F79-B97A-0997C01E2429::.NETFramework,Version=v4.8::UnitTests.HashTableTests.Tests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::2D779343-E3F2-4F79-B97A-0997C01E2429::.NETFramework,Version=v4.8::UnitTests.ImmutableListTest.Tests.OneAddWorksProperly&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::2D779343-E3F2-4F79-B97A-0997C01E2429::.NETFramework,Version=v4.8::UnitTests.DiceRollTests.Tests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=08a4d4d3_002Da2a0_002D4dd9_002D95e4_002D1c702ccc91f4/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="OneAddWorksProperly" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="C:\Users\Egor\uni_projects\C_sharp_projects\HW_02\HW_02\UnitTests" Presentation="&amp;lt;UnitTests&amp;gt;" /&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

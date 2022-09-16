@@ -1,0 +1,6 @@
+C:\Users\Egor\uni_projects\C_sharp_projects\HW_01\HW_01\MinStack\bin\Debug\MinStack.dll
+C:\Users\Egor\uni_projects\C_sharp_projects\HW_01\HW_01\MinStack\bin\Debug\MinStack.pdb
+C:\Users\Egor\uni_projects\C_sharp_projects\HW_01\HW_01\MinStack\obj\Debug\MinStack.csproj.AssemblyReference.cache
+C:\Users\Egor\uni_projects\C_sharp_projects\HW_01\HW_01\MinStack\obj\Debug\MinStack.csproj.CoreCompileInputs.cache
+C:\Users\Egor\uni_projects\C_sharp_projects\HW_01\HW_01\MinStack\obj\Debug\MinStack.dll
+C:\Users\Egor\uni_projects\C_sharp_projects\HW_01\HW_01\MinStack\obj\Debug\MinStack.pdb
