@@ -1,0 +1,6 @@
+C:\Users\Egor\uni_projects\C_sharp_projects\HW_03\PalindromSolver\bin\Debug\PalindromSolver.dll
+C:\Users\Egor\uni_projects\C_sharp_projects\HW_03\PalindromSolver\bin\Debug\PalindromSolver.pdb
+C:\Users\Egor\uni_projects\C_sharp_projects\HW_03\PalindromSolver\obj\Debug\PalindromSolver.csproj.AssemblyReference.cache
+C:\Users\Egor\uni_projects\C_sharp_projects\HW_03\PalindromSolver\obj\Debug\PalindromSolver.csproj.CoreCompileInputs.cache
+C:\Users\Egor\uni_projects\C_sharp_projects\HW_03\PalindromSolver\obj\Debug\PalindromSolver.dll
+C:\Users\Egor\uni_projects\C_sharp_projects\HW_03\PalindromSolver\obj\Debug\PalindromSolver.pdb

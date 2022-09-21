@@ -1,0 +1,6 @@
+C:\Users\Egor\uni_projects\C_sharp_projects\HW_03\SimplifiedFraction\bin\Debug\SimplifiedFraction.dll
+C:\Users\Egor\uni_projects\C_sharp_projects\HW_03\SimplifiedFraction\bin\Debug\SimplifiedFraction.pdb
+C:\Users\Egor\uni_projects\C_sharp_projects\HW_03\SimplifiedFraction\obj\Debug\SimplifiedFraction.csproj.AssemblyReference.cache
+C:\Users\Egor\uni_projects\C_sharp_projects\HW_03\SimplifiedFraction\obj\Debug\SimplifiedFraction.csproj.CoreCompileInputs.cache
+C:\Users\Egor\uni_projects\C_sharp_projects\HW_03\SimplifiedFraction\obj\Debug\SimplifiedFraction.dll
+C:\Users\Egor\uni_projects\C_sharp_projects\HW_03\SimplifiedFraction\obj\Debug\SimplifiedFraction.pdb

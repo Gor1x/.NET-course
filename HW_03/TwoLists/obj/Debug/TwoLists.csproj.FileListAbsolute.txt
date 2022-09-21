@@ -1,0 +1,6 @@
+C:\Users\Egor\uni_projects\C_sharp_projects\HW_03\TwoLists\bin\Debug\TwoLists.dll
+C:\Users\Egor\uni_projects\C_sharp_projects\HW_03\TwoLists\bin\Debug\TwoLists.pdb
+C:\Users\Egor\uni_projects\C_sharp_projects\HW_03\TwoLists\obj\Debug\TwoLists.csproj.AssemblyReference.cache
+C:\Users\Egor\uni_projects\C_sharp_projects\HW_03\TwoLists\obj\Debug\TwoLists.csproj.CoreCompileInputs.cache
+C:\Users\Egor\uni_projects\C_sharp_projects\HW_03\TwoLists\obj\Debug\TwoLists.dll
+C:\Users\Egor\uni_projects\C_sharp_projects\HW_03\TwoLists\obj\Debug\TwoLists.pdb
