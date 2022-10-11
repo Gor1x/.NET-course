@@ -1,0 +1,15 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=25e0a78c_002Dd702_002D4784_002D9cdb_002D0b598fb0128d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Tests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::30451A8D-709F-46CE-B8CC-56C1721145FC::net6.0::HW_05.EventBusImpl.Tests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::30451A8D-709F-46CE-B8CC-56C1721145FC::net6.0::HW_05.PseudoStack.TestStack&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::30451A8D-709F-46CE-B8CC-56C1721145FC::net6.0::HW_05.SunLoungers.TestSunLoungers&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::30451A8D-709F-46CE-B8CC-56C1721145FC::net6.0::HW_05.Factorizer.TestFactorize&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b470b58f_002Db014_002D4a40_002Db917_002D562a48553e5e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::30451A8D-709F-46CE-B8CC-56C1721145FC::net6.0::HW_05.EventBusImpl.Tests.TestRun&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:Boolean x:Key="/Default/UserDictionary/Words/=Factorizer/@EntryIndexedValue">True</s:Boolean></wpf:ResourceDictionary>
