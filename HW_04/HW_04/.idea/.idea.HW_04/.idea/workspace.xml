@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="64761e44-8281-4805-8c85-d3ff860391d7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/.idea.Hw4/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.HW_04/.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.HW_04/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW_05/HW_05/.idea/.idea.HW_05/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW_05/HW_05/bin/Debug/net6.0/HW_05.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW_05/HW_05/bin/Debug/net6.0/HW_05.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW_05/HW_05/bin/Debug/net6.0/HW_05.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW_05/HW_05/bin/Debug/net6.0/HW_05.runtimeconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW_05/HW_05/bin/Debug/net6.0/Microsoft.TestPlatform.CommunicationUtilities.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW_05/HW_05/bin/Debug/net6.0/Microsoft.TestPlatform.CoreUtilities.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW_05/HW_05/bin/Debug/net6.0/Microsoft.TestPlatform.CrossPlatEngine.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW_05/HW_05/bin/Debug/net6.0/Microsoft.TestPlatform.PlatformAbstractions.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW_05/HW_05/bin/Debug/net6.0/Microsoft.TestPlatform.Utilities.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW_05/HW_05/bin/Debug/net6.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW_05/HW_05/bin/Debug/net6.0/Microsoft.VisualStudio.TestPlatform.Common.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW_05/HW_05/bin/Debug/net6.0/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW_05/HW_05/bin/Debug/net6.0/Newtonsoft.Json.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW_05/HW_05/bin/Debug/net6.0/NuGet.Frameworks.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW_05/HW_05/bin/Debug/net6.0/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW_05/HW_05/bin/Debug/net6.0/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW_05/HW_05/bin/Debug/net6.0/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW_05/HW_05/bin/Debug/net6.0/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW_05/HW_05/bin/Debug/net6.0/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW_05/HW_05/bin/Debug/net6.0/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW_05/HW_05/bin/Debug/net6.0/de/Microsoft.TestPlatform.CoreUtilities.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW_05/HW_05/bin/Debug/net6.0/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW_05/HW_05/bin/Debug/net6.0/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW_05/HW_05/bin/Debug/net6.0/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW_05/HW_05/bin/Debug/net6.0/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW_05/HW_05/bin/Debug/net6.0/es/Microsoft.TestPlatform.CoreUtilities.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW_05/HW_05/bin/Debug/net6.0/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW_05/HW_05/bin/Debug/net6.0/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW_05/HW_05/bin/Debug/net6.0/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW_05/HW_05/bin/Debug/net6.0/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW_05/HW_05/bin/Debug/net6.0/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW_05/HW_05/bin/Debug/net6.0/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW_05/HW_05/bin/Debug/net6.0/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW_05/HW_05/bin/Debug/net6.0/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW_05/HW_05/bin/Debug/net6.0/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW_05/HW_05/bin/Debug/net6.0/it/Microsoft.TestPlatform.CoreUtilities.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW_05/HW_05/bin/Debug/net6.0/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW_05/HW_05/bin/Debug/net6.0/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW_05/HW_05/bin/Debug/net6.0/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW_05/HW_05/bin/Debug/net6.0/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW_05/HW_05/bin/Debug/net6.0/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW_05/HW_05/bin/Debug/net6.0/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW_05/HW_05/bin/Debug/net6.0/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW_05/HW_05/bin/Debug/net6.0/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW_05/HW_05/bin/Debug/net6.0/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW_05/HW_05/bin/Debug/net6.0/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW_05/HW_05/bin/Debug/net6.0/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW_05/HW_05/bin/Debug/net6.0/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW_05/HW_05/bin/Debug/net6.0/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW_05/HW_05/bin/Debug/net6.0/nunit.framework.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW_05/HW_05/bin/Debug/net6.0/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW_05/HW_05/bin/Debug/net6.0/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW_05/HW_05/bin/Debug/net6.0/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW_05/HW_05/bin/Debug/net6.0/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW_05/HW_05/bin/Debug/net6.0/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW_05/HW_05/bin/Debug/net6.0/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW_05/HW_05/bin/Debug/net6.0/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW_05/HW_05/bin/Debug/net6.0/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW_05/HW_05/bin/Debug/net6.0/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW_05/HW_05/bin/Debug/net6.0/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW_05/HW_05/bin/Debug/net6.0/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW_05/HW_05/bin/Debug/net6.0/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW_05/HW_05/bin/Debug/net6.0/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW_05/HW_05/bin/Debug/net6.0/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW_05/HW_05/bin/Debug/net6.0/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW_05/HW_05/bin/Debug/net6.0/testhost.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW_05/HW_05/bin/Debug/net6.0/testhost.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW_05/HW_05/bin/Debug/net6.0/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW_05/HW_05/bin/Debug/net6.0/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW_05/HW_05/bin/Debug/net6.0/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW_05/HW_05/bin/Debug/net6.0/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW_05/HW_05/bin/Debug/net6.0/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW_05/HW_05/bin/Debug/net6.0/xunit.abstractions.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW_05/HW_05/bin/Debug/net6.0/xunit.core.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW_05/HW_05/bin/Debug/net6.0/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW_05/HW_05/bin/Debug/net6.0/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW_05/HW_05/bin/Debug/net6.0/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW_05/HW_05/bin/Debug/net6.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW_05/HW_05/bin/Debug/net6.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW_05/HW_05/bin/Debug/net6.0/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW_05/HW_05/bin/Debug/net6.0/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW_05/HW_05/bin/Debug/net6.0/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW_05/HW_05/bin/Debug/net6.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW_05/HW_05/bin/Debug/net6.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW_05/HW_05/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW_05/HW_05/obj/Debug/net6.0/HW_05.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW_05/HW_05/obj/Debug/net6.0/HW_05.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW_05/HW_05/obj/Debug/net6.0/HW_05.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW_05/HW_05/obj/Debug/net6.0/HW_05.GlobalUsings.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW_05/HW_05/obj/Debug/net6.0/HW_05.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW_05/HW_05/obj/Debug/net6.0/HW_05.csproj.AssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW_05/HW_05/obj/Debug/net6.0/HW_05.csproj.CopyComplete" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW_05/HW_05/obj/Debug/net6.0/HW_05.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW_05/HW_05/obj/Debug/net6.0/HW_05.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW_05/HW_05/obj/Debug/net6.0/HW_05.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW_05/HW_05/obj/Debug/net6.0/HW_05.genruntimeconfig.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW_05/HW_05/obj/Debug/net6.0/HW_05.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW_05/HW_05/obj/Debug/net6.0/ref/HW_05.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW_05/HW_05/obj/Debug/net6.0/refint/HW_05.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW_05/HW_05/obj/HW_05.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW_05/HW_05/obj/HW_05.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW_05/HW_05/obj/HW_05.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW_05/HW_05/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW_05/HW_05/obj/project.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW_05/HW_05/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW_05/HW_05/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.HW_04/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../HW_05/HW_05/.idea/.idea.HW_05/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.HW_04/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../HW_05/HW_05/.idea/.idea.HW_05/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.HW_04/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../HW_05/HW_05/.idea/.idea.HW_05/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW_04/LuckyTicket/Tests.cs" beforeDir="false" afterPath="$PROJECT_DIR$/HW_04/LuckyTicket/Tests.cs" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/52cd844476ec4091838909409447be01a23688/08/339a8e29/Object.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/a2e23547b6babc78fb634a414bdc249131649bace90e3141fc23f36fa436dce/Hashtable.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/efd3e9c4749621d4a53b45d7117d2a581e02a265c444a040f1387a155db/Dictionary.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HW_04/Integral/Tests.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Fb31Li3eEPBH5dUXqFN9nQWPXd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="64761e44-8281-4805-8c85-d3ff860391d7" name="Changes" comment="" />
+      <created>1664746739531</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664746739531</updated>
+      <workItem from="1664746742417" duration="39000" />
+      <workItem from="1664746860145" duration="10826000" />
+      <workItem from="1664836887441" duration="1336000" />
+      <workItem from="1665528637490" duration="768000" />
+    </task>
+    <task id="LOCAL-00001" summary="Add hw4">
+      <created>1664746995717</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1664746995717</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add hw4">
+      <created>1664749625898</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1664749625898</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Add hw4">
+      <created>1664762619079</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1664762619079</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Add hw4">
+      <created>1664763501477</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1664763501477</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Add hw4">
+      <created>1664836706534</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1664836706534</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Add hw4">
+      <created>1664836723228</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1664836723228</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Add hw4">
+      <created>1664836764758</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1664836764758</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Add hw4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add hw4" />
+  </component>
+</project>

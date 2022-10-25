@@ -1,5 +1,4 @@
 ﻿using System.Numerics;
-using HW_04.InterfacesAndClasses;
 using NUnit.Framework;
 
 namespace HW_04.LuckyTicket;
