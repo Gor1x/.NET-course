@@ -1,6 +1,6 @@
 ﻿using NUnit.Framework;
 
-namespace HW_11;
+namespace HW_11.Cache;
 
 internal class Local : IDisposable
 {

@@ -1,4 +1,4 @@
-﻿namespace HW_11;
+﻿namespace HW_11.Cache;
 
 public class Cache<T> : IDisposable where T : IDisposable
 {
